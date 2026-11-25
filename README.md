@@ -12,10 +12,12 @@ I test trading ideas with frozen hypotheses, point-in-time data, and costs inclu
 
 <div align="center">
 
-### Daily contributions
-
 <a href="https://github.com/HarshitK2814?tab=overview">
-  <img src="https://ghchart.rshah.org/HarshitK2814" alt="Harshit Kumar's GitHub contribution calendar over the past year" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg" />
+    <img src="assets/contributions-light.svg" alt="GitHub contribution calendar: automatically refreshed every hour" width="100%" />
+  </picture>
 </a>
 
 </div>
