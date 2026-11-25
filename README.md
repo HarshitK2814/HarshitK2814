@@ -1,1 +1,41 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiMgSGFyc2hpdCBLdW1hcgoKIyMjIFF1YW50aXRhdGl2ZSByZXNlYXJjaCDCtyBTeXN0ZW1hdGljIHRyYWRpbmcgwrcgUmVwcm9kdWNpYmxlIGV4cGVyaW1lbnRzCgpJIHRlc3QgdHJhZGluZyBpZGVhcyB3aXRoIGZyb3plbiBoeXBvdGhlc2VzLCBwb2ludC1pbi10aW1lIGRhdGEsIGFuZCBjb3N0cyBpbmNsdWRlZC4KCltFeHBsb3JlIHRoZSByZXNlYXJjaF0oI3NlbGVjdGVkLXJlc2VhcmNoKSAmbmJzcDsgLyAmbmJzcDsgW1J1biBhbiBleHBlcmltZW50XShodHRwczovL2hhcnNoaXRrMjgxNC5naXRodWIuaW8vcmlkaW5nLWV2ZXJ5LWhvcml6b24vKSAmbmJzcDsgLyAmbmJzcDsgW0hvdyBJIHdvcmtdKCNyZXNlYXJjaC1zdGFuZGFyZHMpCgo8L2Rpdj4KCi0tLQoKIyMjIEN1cnJlbnRseSBpbnZlc3RpZ2F0aW5nCgoqKlByZWRpY3Rpb24gbWFya2V0cyoqIOKAlCBBcmUgZXZlbnQgcHJpY2VzIGNhbGlicmF0ZWQ/IEFyZSBsb25nc2hvdHMgb3ZlcnByaWNlZD8gRG9lcyBmYWRpbmcgdGhlbSBwYXkgYWZ0ZXIgZmVlcyBhbmQgc3ByZWFkcz8KCkEgcHJlLXJlZ2lzdGVyZWQgc3R1ZHksIGN1cnJlbnRseSBpbiBwcm9ncmVzcy4KCiMjIFNlbGVjdGVkIHJlc2VhcmNoCgp8IFByb2plY3QgfCBSZXNlYXJjaCBxdWVzdGlvbiBhbmQgZXZpZGVuY2UgfCBFeHBsb3JlIHwKfCA6LS0tIHwgOi0tLSB8IDotLS0gfAp8ICoqUmlkaW5nIEV2ZXJ5IEhvcml6b24qKiB8IFRyZW5kIGZvbGxvd2luZyBhY3Jvc3MgKiozOSBmdXR1cmVzIG1hcmtldHMqKiwgd2l0aCBhIGNvbnRhbWluYXRpb24tY29udHJvbGxlZCB0ZXN0IG9mIEdvb2dsZSdzIFRpbWVzRk0gYXMgYSB0cmFkaW5nIHNpZ25hbC4gSW5jbHVkZXMgYW4gb25nb2luZyBmb3J3YXJkIHRlc3QuIHwgW0ludGVyYWN0aXZlIHN0dWR5XShodHRwczovL2hhcnNoaXRrMjgxNC5naXRodWIuaW8vcmlkaW5nLWV2ZXJ5LWhvcml6b24vKSDCtyBbQ29kZV0oaHR0cHM6Ly9naXRodWIuY29tL0hhcnNoaXRLMjgxNC9yaWRpbmctZXZlcnktaG9yaXpvbikgfAp8ICoqQ29sbGFycyBVbmRlciB0aGUgTWljcm9zY29wZSoqIHwgUmVjb25zdHJ1Y3RlZCBhICQyMGJuIGZ1bmQncyBTJlAgNTAwIHB1dC1zcHJlYWQgY29sbGFyLiBTdHJpa2VzIG1hdGNoZWQgd2l0aGluICoqMC4zNCBwZXJjZW50YWdlIHBvaW50cyBhY3Jvc3MgMjggcXVhcnRlcnMqKi4gQ2hhbmdpbmcgb25seSB0aGUgcmVzZXQgZGF5IHByb2R1Y2VkIGFubnVhbCByZXR1cm5zIGZyb20gMy40JSB0byAxMC43JS4gfCBbQ29kZSBhbmQgZmluZGluZ3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9IYXJzaGl0SzI4MTQvY29sbGFycy11bmRlci10aGUtbWljcm9zY29wZSkgfAp8ICoqV2hvIElzIFlvdXIgUGVlcj8qKiB8IEEgc3RvY2stc2VsZWN0aW9uIG1vZGVsIHVzaW5nICoqMTUgY2hhcmFjdGVyaXN0aWNzKiogZnJvbSBwb2ludC1pbi10aW1lIGZpbGluZ3MuIEJlc3QgcG9ydGZvbGlvOiBuZXQgU2hhcnBlICoqMC42OCoqLCB3aXRoIGEgOTUlIGNvbmZpZGVuY2UgaW50ZXJ2YWwgb2YgLTAuMzEgdG8gMS42Ny4gVGhlIHJlc3VsdCB3YXMgbm90IHN0YXRpc3RpY2FsbHkgc2lnbmlmaWNhbnQuIHwgW0NvZGUgYW5kIGZpbmRpbmdzXShodHRwczovL2dpdGh1Yi5jb20vSGFyc2hpdEsyODE0L3doby1pcy15b3VyLXBlZXIpIHwKfCAqKkhlZGdlIG9yIE5vdD8qKiB8IFJlY29uc3RydWN0ZWQgYSBjdXJyZW5jeS1oZWRnaW5nIHJ1bGUgZnJvbSB0aHJlZSBzZW50ZW5jZXMgaW4gYSBwcm9zcGVjdHVzOiAqKjAuOTIgY29ycmVsYXRpb24qKiB3aXRoIHRoZSBsaXZlIGZ1bmQuIHwgW0NvZGUgYW5kIGZpbmRpbmdzXShodHRwczovL2dpdGh1Yi5jb20vSGFyc2hpdEsyODE0L2hlZGdlLW9yLW5vdCkgfAp8ICoqU2V2ZW4gRW5naW5lcyoqIHwgUmVjb25zdHJ1Y3RlZCAqKnNldmVuIGZ1dHVyZXMgc3R5bGVzKiogZnJvbSBhIGZ1bmQncyAxMC1LIGZpbGluZy4gfCBbQ29kZSBhbmQgZmluZGluZ3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9IYXJzaGl0SzI4MTQvc2V2ZW4tZW5naW5lcykgfAoKIyMgUmVzZWFyY2ggc3RhbmRhcmRzCgp8IEJlZm9yZSB0ZXN0aW5nIHwgV2hlbiByZXBvcnRpbmcgfCBXaGVuIHNoYXJpbmcgfAp8IDotLS0gfCA6LS0tIHwgOi0tLSB8CnwgUHJlLXJlZ2lzdGVyIGh5cG90aGVzZXMgYW5kIGxvY2sgdGhlIHRlc3QgcGVyaW9kIGluIGNvZGUuIHwgU3RhdGUgY29zdHMgYW5kIGNhcGFjaXR5OyByZXBvcnQgU2hhcnBlIHJhdGlvcyB3aXRoIGNvbmZpZGVuY2UgaW50ZXJ2YWxzIGFuZCBzYW1wbGUgY291bnRzLiB8IFByb3ZpZGUgYSBjb21tYW5kIHRvIHJlcHJvZHVjZSBwdWJsaXNoZWQgbnVtYmVycyBhbmQgYXV0b21hdGVkIGNoZWNrcyBvbiBldmVyeSBwdXNoLiB8Cgo+IEZhaWxlZCB0ZXN0cyBzdGF5IGluIHRoZSByZXNlYXJjaCByZWNvcmQuCgotLS0KCjxzdWI+UmVzZWFyY2ggYXJ0aWZhY3RzIG9ubHkuIEhpc3RvcmljYWwgc2ltdWxhdGlvbnMgYW5kIGZvcndhcmQgdGVzdHMgc2hvdWxkIGJlIHJlYWQgc2VwYXJhdGVseSBmcm9tIHJlYWwtbW9uZXkgcmVzdWx0cy4gTm90IGludmVzdG1lbnQgYWR2aWNlLjwvc3ViPgo=
+<div align="center">
+
+# Harshit Kumar
+
+### Quantitative research · Systematic trading · Reproducible experiments
+
+I test trading ideas with frozen hypotheses, point-in-time data, and costs included.
+
+[Explore the research](#selected-research) &nbsp; / &nbsp; [Run an experiment](https://harshitk2814.github.io/riding-every-horizon/) &nbsp; / &nbsp; [How I work](#research-standards)
+
+</div>
+
+---
+
+### Currently investigating
+
+**Prediction markets** — Are event prices calibrated? Are longshots overpriced? Does fading them pay after fees and spreads?
+
+A pre-registered study, currently in progress.
+
+## Selected research
+
+| Project | Research question and evidence | Explore |
+| :--- | :--- | :--- |
+| **Riding Every Horizon** | Trend following across **39 futures markets**, with a contamination-controlled test of Google's TimesFM as a trading signal. Includes an ongoing forward test. | [Interactive study](https://harshitk2814.github.io/riding-every-horizon/) · [Code](https://github.com/HarshitK2814/riding-every-horizon) |
+| **Collars Under the Microscope** | Reconstructed a $20bn fund's S&P 500 put-spread collar. Strikes matched within **0.34 percentage points across 28 quarters**. Changing only the reset day produced annual returns from 3.4% to 10.7%. | [Code and findings](https://github.com/HarshitK2814/collars-under-the-microscope) |
+| **Who Is Your Peer?** | A stock-selection model using **15 characteristics** from point-in-time filings. Best portfolio: net Sharpe **0.68**, with a 95% confidence interval of -0.31 to 1.67. The result was not statistically significant. | [Code and findings](https://github.com/HarshitK2814/who-is-your-peer) |
+| **Hedge or Not?** | Reconstructed a currency-hedging rule from three sentences in a prospectus: **0.92 correlation** with the live fund. | [Code and findings](https://github.com/HarshitK2814/hedge-or-not) |
+| **Seven Engines** | Reconstructed **seven futures styles** from a fund's 10-K filing. | [Code and findings](https://github.com/HarshitK2814/seven-engines) |
+
+## Research standards
+
+| Before testing | When reporting | When sharing |
+| :--- | :--- | :--- |
+| Pre-register hypotheses and lock the test period in code. | State costs and capacity; report Sharpe ratios with confidence intervals and sample counts. | Provide a command to reproduce published numbers and automated checks on every push. |
+
+> Failed tests stay in the research record.
+
+---
+
+<sub>Research artifacts only. Historical simulations and forward tests should be read separately from real-money results. Not investment advice.</sub>
