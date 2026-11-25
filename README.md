@@ -10,6 +10,16 @@ I test trading ideas with frozen hypotheses, point-in-time data, and costs inclu
 
 </div>
 
+<div align="center">
+
+### Daily contributions
+
+<a href="https://github.com/HarshitK2814?tab=overview">
+  <img src="https://ghchart.rshah.org/HarshitK2814" alt="Harshit Kumar's GitHub contribution calendar over the past year" width="100%" />
+</a>
+
+</div>
+
 ---
 
 ### Currently investigating
