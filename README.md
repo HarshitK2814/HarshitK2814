@@ -10,17 +10,32 @@ I test trading ideas with frozen hypotheses, point-in-time data, and costs inclu
 
 </div>
 
-<div align="center">
-
-<a href="https://github.com/HarshitK2814?tab=overview">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/contributions-light.svg" />
-    <img src="assets/contributions-light.svg" alt="GitHub contribution calendar: automatically refreshed every hour" width="100%" />
-  </picture>
+<a href="https://harshitk2814.github.io/riding-every-horizon/">
+  <img src="assets/research-workbench.svg" alt="Research workbench: question, data, test, evidence. Click to open the interactive trend study." width="100%" />
 </a>
 
-</div>
+### Choose a research path
+
+<details>
+<summary><strong>Run an experiment — trend following</strong></summary>
+
+Open the [interactive research site](https://harshitk2814.github.io/riding-every-horizon/) to rerun the historical backtest in your browser. Explore the [code and assumptions](https://github.com/HarshitK2814/riding-every-horizon), including costs, crisis behavior and the TimesFM extension.
+
+</details>
+
+<details>
+<summary><strong>Challenge a claim — prediction markets</strong></summary>
+
+Does a price of 20 cents mean a 20% chance? The [pre-registered Kalshi study](https://github.com/HarshitK2814/do-the-odds-hold) tests calibration and longshot bias. Milestone A found no evidence of overpricing below 15 cents at the seven-day horizon. [Inspect the results and confidence intervals](https://github.com/HarshitK2814/do-the-odds-hold/blob/main/research/results_milestone_a.md).
+
+</details>
+
+<details>
+<summary><strong>Follow the frictions — options and portfolio construction</strong></summary>
+
+Investigate [how changing a collar's reset day changes its outcome](https://github.com/HarshitK2814/collars-under-the-microscope), or [how costs, capacity limits and tax affect ML stock signals](https://github.com/HarshitK2814/Machine-Learning-for-Alpha-Signal-Combination-and-Portfolio-Construction). Historical simulations are presented with their limitations.
+
+</details>
 
 ---
 
